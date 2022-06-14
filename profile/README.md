@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 
 **Here are some ideas to get you started:**
@@ -10,3 +8,17 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+我是没事的时候
+
+在无聊的时候，想的时候
+
+到一个地方，不相同的地方
+
+到这个地方来，来到吧
+
+可以瞧瞧不一样的地方
+
+不相同的地方
+
+很多，很多……
