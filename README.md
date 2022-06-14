@@ -1,2 +1,0 @@
-# .github
-behappy-project
