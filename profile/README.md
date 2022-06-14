@@ -9,6 +9,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+<div>
+<div style="align: left;">
+<p>
 我是没事的时候
 
 在无聊的时候，想的时候
@@ -22,3 +25,7 @@
 不相同的地方
 
 很多，很多……
+</p>
+<span style="align: right;"><b>- 淳·简·拉基茨德</b></span>
+</div>
+<div>
